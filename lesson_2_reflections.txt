@@ -20,3 +20,13 @@ They would help keeping different versions separated, and then allowing to merge
 • How do the diagrams help you visualize the branch structure?
 
 By displaying when branches have been branched
+
+• What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The two branches become one, with all the changes in both
+
+
+• What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: faster when you’re 100% sure it’s a basic and trackable change
+Cons: it can mess things up 
