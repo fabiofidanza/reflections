@@ -1,0 +1,9 @@
+• What happens when you initialize a repository? Why do you need to do it?
+
+Metadata get created in order to handle versioning
+
+
+• How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It holds the files you wish to include in your next commit.
+It allows to keep track of those files and add them one by one without having to select all the files at once (that can be painful for massive commits)
